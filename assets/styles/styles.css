@@ -1,0 +1,33 @@
+body {
+background-image: url("../images/bg6.jpeg");
+background-size: cover;
+background-repeat: no-repeat;
+font-family: 'Roboto', sans-serif;
+}
+h1 {
+color: black;
+font-size: 50px;
+font-weight: normal;
+margin-bottom: 0;
+}
+h2 {
+color: black;
+font-size: 18px;
+margin-top: 0;
+}
+.bio {
+color: black;
+font-size: 14px;
+}
+.me {
+	height: 150px;
+	border-radius: 15%;
+	border-style: solid;
+	border-color: silver;
+	margin-top: 40px;
+}
+#container {
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
